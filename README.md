@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js, Node js, Express js and Cypress**
 
-- 💬 Ask me about **spring boot and MERN**
+- 💬 Ask me about **Spring Boot and MERN**
 
 - 📫 How to reach me **mtairek20@gmail.com**
 
