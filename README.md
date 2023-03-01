@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/AliAMoteirek/AliAMoteirek/blob/main/readme_header.gif">
 
-- 🌱 I’m currently learning **React js, Node js and express js**
+- 🌱 I’m currently learning **React js, Node js, Express js and Cypress**
 
 - 💬 Ask me about **spring boot and MERN**
 
